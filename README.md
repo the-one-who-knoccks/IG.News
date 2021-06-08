@@ -4,7 +4,7 @@
     <img src="https://raw.githubusercontent.com/Rocketseat/rocketseat-vscode-reactjs-snippets/master/images/rocketseat_logo.png" >
 </h1>                
 
-# Bootcamp Ignite 
+# ig.news - Bootcamp Ignite 
               
 <p align="center">     
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
